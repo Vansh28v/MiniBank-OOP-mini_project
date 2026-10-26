@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+out/
+practical2-out/
+practical3-out/
+practical4-out/
+practical5-out/
+
+# Generated runtime data
+accounts.dat
+bank-report.txt
+transactions.log
+logs/
+
+# IDE settings
+.vscode/
+vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
